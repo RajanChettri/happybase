@@ -11,14 +11,14 @@ HBase_.
 .. _Python: http://python.org/
 .. _HBase: http://hbase.apache.org/
 
-.. If you're reading this from the README.rst file in a source tree,
+ If you're reading this from the README.rst file in a source tree,
    you can generate the HTML documentation by running "make doc" and browsing
    to doc/build/html/index.html to see the result.
 
 
-.. This is the change done by me
-.. i think this is going to improve performance and add various features.
-.. some other features added here
+ This is the change done by me
+ i think this is going to improve performance and add various features.
+ some other features added here
 
-.. some more features
+ some more features
 
